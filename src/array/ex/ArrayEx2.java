@@ -17,7 +17,6 @@ public class ArrayEx2 {
             System.out.print(numbers[i]);
             if (i < numbers.length - 1) {
                 System.out.print(", ");
-
             }
         }
     }
